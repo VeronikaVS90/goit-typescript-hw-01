@@ -1,7 +1,7 @@
 {
   "name": "goit-typescript-hw-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "- npm install -g typescript - tsc --init - tsc - tsc -w",
   "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch",
